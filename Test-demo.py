@@ -6,4 +6,4 @@ while True:
         display.scroll('Night')
     else:
         display.scroll('Day')
-    sleep(2000)
+    sleep(3000)
